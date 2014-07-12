@@ -1,6 +1,6 @@
 
 # 2048-Argentina
-Una version de la Seleccion Argentina de [2048](http://git.io/2048), Lucas Lencinas
+Una version de la Seleccion Argentina de [2048](http://lucaslencinas.github.io/2048), Lucas Lencinas
 
 Para matar los nervios antes de la final!!!! [¡Jugalo acá!](http://lucaslencinas.github.io/2048-Argentina)
 
