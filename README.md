@@ -8,6 +8,6 @@ Para matar los nervios antes de la final!!!! [¡Jugalo acá!](http://git.io/2048
 
 ## Donaciones
 Hice esto solo como hobby, el hosting de la pagina es gratuito.
-El codigo esta tomado del 2048DBZ creado por Matias Garcia Isaias y colegas de la UTN, que previamente fue tomado del juego original 2048 creado por Gabriele y prácticamente todo lo hizo el, así que si tenés ganas, podés donarle unos BTC: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
+El codigo esta tomado del 2048DBZ creado por Matias Garcia Isaias y colegas de la UTN, que previamente fue tomado del juego original 2048 creado por Gabriele, así que si tenés ganas, podés donarle unos BTC: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
 Muchas gracias y vamos Argentina!!!.
 
