@@ -2,7 +2,7 @@
 # 2048-Argentina
 Una version de la Seleccion Argentina de [2048](http://git.io/2048), Lucas Lencinas
 
-Para matar los nervios antes de la final!!!! [¡Jugalo acá!](http://git.io/2048dbz)
+Para matar los nervios antes de la final!!!! [¡Jugalo acá!](http://git.io/2048-Argentina)
 
 ## Licencia
 2048-Argentina está licenciado bajo la [licencia MIT](https://github.com/lucaslencinas/2048-Argentina/blob/master/LICENSE.txt).
