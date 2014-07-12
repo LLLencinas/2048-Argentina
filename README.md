@@ -1,10 +1,13 @@
-# 2048DBZ
-Una versión DBZ de [2048](http://git.io/2048), basado en una idea de Mariano Salerno, Pablo de Haro, Claudio Fernandez, Manu Gambino, y nosotros mismos.
+# 2048-Argentina
+Una version de la Seleccion Argentina de [2048](http://git.io/2048), idea de Lucas Lencinas
 
-Hecho _porque podemos_ :) [¡Jugalo acá!](http://git.io/2048dbz)
+Para matar los nervios antes de la final!!!! [¡Jugalo acá!](http://git.io/2048dbz)
 
 ## Licencia
-2048DBZ está licenciado bajo la [licencia MIT](https://github.com/mgarciaisaia/2048dbz/blob/master/LICENSE.txt).
+2048-Argentina está licenciado bajo la [licencia MIT](https://github.com/lucaslencinas/2048-Argentina/blob/master/LICENSE.txt).
 
 ## Donaciones
-Hicimos esto _porque podemos_, y está hosteado en GitHub (osea, nos es gratis), y prácticamente todo lo hizo Gabriele, así que si tenés ganas, podés donarle unos BTC: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Todos vamos a estarte agradecidos.
+Hice esto solo como hobby, el hosting de la pagina es gratuito.
+El codigo esta tomado del 2048DBZ creado por Matias Garcia Isaias y colegas de la UTN, que previamente fue tomado del juego original 2048 creado por Gabriele y prácticamente todo lo hizo el, así que si tenés ganas, podés donarle unos BTC: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
+Muchas gracias y vamos Argentina!!!.
+
