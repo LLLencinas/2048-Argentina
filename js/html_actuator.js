@@ -165,8 +165,8 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   var tweet = document.createElement("a");
   tweet.classList.add("twitter-share-button");
   tweet.setAttribute("href", "https://twitter.com/share");
-  tweet.setAttribute("data-url", "http://git.io/2048dbz");
-  tweet.setAttribute("data-counturl", "http://git.io/2048dbz");
+  tweet.setAttribute("data-url", "http://git.io/2048-Argentina");
+  tweet.setAttribute("data-counturl", "http://git.io/2048-Argentina");
   tweet.textContent = "Tweet";
 
   var textosSegunFase = {
@@ -183,8 +183,8 @@ HTMLActuator.prototype.scoreTweetButton = function () {
     2048: '¡Gané! ¡Logré convertirme en supersaiyajín fase 4!'
   };
 
-  var text = textosSegunFase[this.maxTileValue] + " (¡Hice " + this.score + " puntos en 2048DBZ, un juego en que " +
-             "unís Gokús para levelearlos!) #2048dbz #2048game #dbz";
+  var text = textosSegunFase[this.maxTileValue] + " (¡Hice " + this.score + " puntos en 2048-Argentina, un juego en que " +
+             "unís jugadores para llegar a otro mas habilidoso!) #2048-SeleccionArgentina #VamosArgentina";
   tweet.setAttribute("data-text", text);
 
   return tweet;

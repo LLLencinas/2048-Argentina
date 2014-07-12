@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #000000;
-  color: #fff;
+  color: #54ADFF;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -441,7 +441,7 @@ hr {
   .tile .tile-inner {
     border-radius: 3px;
     background-color: #eee4da;
-    background-image: url(../img/dbz_sprite.png);
+    background-image: url(../img/jugadores1.png);
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
