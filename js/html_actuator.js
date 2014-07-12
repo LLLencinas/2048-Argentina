@@ -170,7 +170,7 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   tweet.textContent = "Tweet";
 
   var textosSegunFase = {
-    2: '¡Hola, soy Zabaleta!',
+    /*2: '¡Hola, soy Zabaleta!',
     4: '¡Hola, soy Demichelli! ¡Y me convertí en un mono gigante!',
     8: '¡Terminé de entrenar con Kamisama y derrotaré a Piccoro!',
     16: '¡Ya verás Vegeta! ¡Kaioken!',
@@ -180,7 +180,7 @@ HTMLActuator.prototype.scoreTweetButton = function () {
     256: '¿Qué pasó? ¡Soy un niño otra vez!',
     512: '¡Este cuerpo no puede soportar tanto poder!, soy un supersaiyajín fase 3.',
     1024: '¡Soy Gokú y me convertí en un Ōzaru dorado!',
-    2048: '¡Gané! ¡Logré convertirme en supersaiyajín fase 4!'
+    2048: '¡Gané! ¡Logré convertirme en supersaiyajín fase 4!'*/
   };
 
   var text = /*textosSegunFase[this.maxTileValue] +*/ " (¡Hice " + this.score + " puntos en 2048-Argentina, un juego en que " +
