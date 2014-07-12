@@ -165,13 +165,13 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   var tweet = document.createElement("a");
   tweet.classList.add("twitter-share-button");
   tweet.setAttribute("href", "https://twitter.com/share");
-  tweet.setAttribute("data-url", "http://git.io/2048-Argentina");
-  tweet.setAttribute("data-counturl", "http://git.io/2048-Argentina");
+  tweet.setAttribute("data-url", "http://lucaslencinas.github.io/2048-Argentina");
+  tweet.setAttribute("data-counturl", "http://lucaslencinas.github.io/2048-Argentina");
   tweet.textContent = "Tweet";
 
   var textosSegunFase = {
-    2: '¡Hola, soy Gokú!',
-    4: '¡Hola, soy Gokú! ¡Y me convertí en un mono gigante!',
+    2: '¡Hola, soy Zabaleta!',
+    4: '¡Hola, soy Demichelli! ¡Y me convertí en un mono gigante!',
     8: '¡Terminé de entrenar con Kamisama y derrotaré a Piccoro!',
     16: '¡Ya verás Vegeta! ¡Kaioken!',
     32: '¡Yo soy el supersaiyajín Gokú! Por todos los guerreros saiyajin que asesinaste, y también por todos los namekuseijin que mataste, juro que ¡¡TE EXTERMINARE!!',
@@ -183,7 +183,7 @@ HTMLActuator.prototype.scoreTweetButton = function () {
     2048: '¡Gané! ¡Logré convertirme en supersaiyajín fase 4!'
   };
 
-  var text = textosSegunFase[this.maxTileValue] + " (¡Hice " + this.score + " puntos en 2048-Argentina, un juego en que " +
+  var text = /*textosSegunFase[this.maxTileValue] +*/ " (¡Hice " + this.score + " puntos en 2048-Argentina, un juego en que " +
              "unís jugadores para llegar a otro mas habilidoso!) #2048-SeleccionArgentina #VamosArgentina";
   tweet.setAttribute("data-text", text);
 
